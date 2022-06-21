@@ -13,9 +13,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyProfile"
         tools:targetApi="31">
-        <activity
-            android:name=".Urls"
-            android:exported="false" />
+
         <activity
             android:name=".Edit_Profile"
             android:exported="false" />
