@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyProfile</string>
+    <string name="save">Save</string>
+    <string name="todo">TODO</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="cancel">Cancel</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="email">Email</string>
+    <string name="full_name">Full Name</string>
+    <string name="edit">EDIT Profile</string>
+    <string name="cancel_1">Cancel</string>
+    <string name="Save">Save</string>
+    <string name="chang_pass">Chang Password</string>
+    <string name="logout">Log Out</string>
+    <string name="old_pass">Enter Your Old Passsword</string>
+    <string name="new_pass">Enter Your New Password</string>
+    <string name="con_pass">Enter Your Confirm Password</string>
+
+</resources>
